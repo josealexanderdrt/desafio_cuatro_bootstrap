@@ -1,0 +1,24 @@
+
+
+
+.logo{
+    width: 4rem;
+}
+
+.caracteristicasul{
+     list-style: none;
+}
+
+.pricenew{
+    font-size: 1.2rem;
+}
+
+.priceold{
+    text-decoration: line-through; font-size: 0.9rem;
+}
+
+.card-img-top:hover{ 
+    transform: scale(1.2);}
+
+.pricenew:hover{
+       font-size: 1.3rem;}
